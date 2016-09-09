@@ -106,6 +106,10 @@ extension Faculty {
             {
                 description += "with assistant teacher: \(course.assistantTeacher!)\n"
             }
+            else
+            {
+                description += "\n"
+            }
         }
         description += "\n\n"
         return description 

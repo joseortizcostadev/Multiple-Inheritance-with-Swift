@@ -64,14 +64,18 @@ print(graduateStudent2.coursesAssisting(withFacultyMember: lecturer2))
  Title: Analysis of algorithms in semester: Spring2016
  
  
+ 
  Professor Marc teaches the following courses:
- Title: Data Structures in semester: Spring2016 Title: Neural Networks in semester: Fall 2016 with assistant teacher: Mike
+ Title: Data Structures in semester: Spring2016
+ Title: Neural Networks in semester: Fall 2016 with assistant teacher: Mike
  
  
  
  Professor Nando teaches the following courses:
- Title: Data Structures in semester: Spring2016 Title: Analysis of algorithms in semester: Spring2016 with assistant teacher: Mario
+ Title: Data Structures in semester: Spring2016
+ Title: Analysis of algorithms in semester: Spring2016 with assistant teacher: Mario
  Title: Neural Networks in semester: Fall 2016
+ 
  
  
  [Swift_Inheretance_Using_Protocols.Course(name: "Data Structures", semester: "Spring2016", assistantTeacher: Optional("Mario"))]
